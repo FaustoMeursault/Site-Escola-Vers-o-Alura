@@ -89,3 +89,5 @@ body {
     padding: 12px 0;
    
 }
+
+@media screen and (min-widht: 768px) ;
