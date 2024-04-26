@@ -56,7 +56,8 @@ body {
     padding: 24px 0;
 }
 .estudante-imagem{
-    width: 120px;
+    width: 140px !important;
+    height: 150px !important;
 }
 
 .estudante-icone{
@@ -90,4 +91,6 @@ body {
    
 }
 
-@media screen and (min-widht: 768px) ;
+@media screen and (min-widht: 768px) {
+    
+}
