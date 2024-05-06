@@ -2,6 +2,16 @@
     margin: 0;
     padding: 0;
 }
+.btn{
+    color: white;
+    background-color: #38CC77;
+    height: 40px;
+    width: 90px;
+    padding: 2px;
+    border: 2px solid black;
+    text-decoration: none;
+}
+
 
 body {
     font-family: 'Poppins', sans-serif;
