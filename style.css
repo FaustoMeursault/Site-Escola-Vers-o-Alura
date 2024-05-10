@@ -3,13 +3,10 @@
     padding: 0;
 }
 .btn{
+    background-color: #8be09e;
     color: white;
-    background-color: #38CC77;
-    height: 40px;
-    width: 90px;
-    padding: 2px;
-    border: 2px solid black;
-    text-decoration: none;
+    padding: 5px 8px;
+    border-radius:2px solid #ffffff;   
 }
 
 
@@ -101,6 +98,8 @@ body {
     height: 200px;
     padding: 12px 0;
    
+}
+.nav {
 }
 
 @media screen and (min-widht: 768px) {
